@@ -4,7 +4,7 @@ export default function Footer() {
         <footer className="footer">
             <small>© 2023 CarPer Desarrollo. Todos los derechos reservados.</small>
             <a href="https://www.linkedin.com/in/carla-perez-imbert/">
-                <img className="linkedin" src="../public/linkedin-icon.png" alt="Linkedin logo" />
+                <img className="linkedin" src="linkedin-icon.png" alt="Linkedin logo" />
             </a>
         </footer>
     )
