@@ -6,7 +6,7 @@ export default function Header() {
       <nav className="nav">
         <div className="nav-logo">
           <img
-            src="../public/react.svg"
+            src="react.svg"
             className="nav-logo logo"
             alt="logo react"
           />
